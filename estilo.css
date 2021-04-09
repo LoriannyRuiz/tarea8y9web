@@ -1,0 +1,18 @@
+body {
+    margin: 130px 140px;
+    padding: 40px;
+    background-color: sandybrown;
+    background-size: 1700px 1100px;
+    background-position: 0px 0px;
+    background-position: 0px 0px;
+}
+
+button {
+    height: 50px;
+    width: 500px;
+    margin: -30px -50px;
+    top: 50%;
+    left: 50%;
+    position: initial;
+    background-color: azure;
+}
